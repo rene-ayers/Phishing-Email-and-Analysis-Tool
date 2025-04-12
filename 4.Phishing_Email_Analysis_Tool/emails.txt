@@ -1,9 +1,0 @@
-Hello User,
-
-Please visit https://safe-site.com for your invoice.
-
-However, we detected suspicious activity on your account. Secure it immediately at:
-http://phishing-example.com
-
-Best Regards,
-Support Team
